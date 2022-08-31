@@ -1,1 +1,1 @@
-web: gunicorn belajar-django-id.wsgi --log-file -
+web: gunicorn belajar_django.wsgi --log-file -
